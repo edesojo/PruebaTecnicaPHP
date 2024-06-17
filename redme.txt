@@ -1,0 +1,16 @@
+*---------------------------------------*
+PRUEBA TÉCNICA PHP
+----------------------------------------
+
+REQUISITOS PARA EJECUTAR EL EJERCICIO 1:
+----------------------------------------
+
+- LOCALHOST - Ej: Laragon https://laragon.org/ 
+
+PASOS A SEGUIR:
+----------------------------------------
+1. Importe la base de datos a su LOCALHOST.
+2. Introduzca las credenciales del usuario para acceder a las db del LOCALHOST, lo puede hacer en las líneas 14 y 15, de dentro del archivo Prueba de nivel 1 > index.php.
+3. Ponga el código en la raíz www del LOCALHOST, y ejecútelo, después abra la ruta del archivo en su navegador.
+
+El programa debería imprimir si la conexión es exitosa, en caso contrario, devuelve el error.
