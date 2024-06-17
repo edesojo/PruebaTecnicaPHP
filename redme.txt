@@ -9,7 +9,7 @@ REQUISITOS PARA EJECUTAR EL EJERCICIO 1:
 
 PASOS A SEGUIR:
 ----------------------------------------
-1. Importe la base de datos a su LOCALHOST.
+1. Importe la base de datos a su LOCALHOST o cree DB, podra modificar el nombre de la db en las lineas 16.
 2. Introduzca las credenciales del usuario para acceder a las db del LOCALHOST, lo puede hacer en las líneas 14 y 15, de dentro del archivo Prueba de nivel 1 > index.php.
 3. Ponga el código en la raíz www del LOCALHOST, y ejecútelo, después abra la ruta del archivo en su navegador.
 

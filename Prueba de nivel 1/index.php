@@ -11,9 +11,9 @@ class Database {
     private function __construct() {
         //Indicamos las credenciales para una conexion a un db
         $host = 'localhost';
-        $username = 'root';
-        $psswd = '';
-        $db = 'testphp';
+        $username = 'root'; //Nombre de usuario de la DB
+        $psswd = ''; //Contraseña del usuario de la DB
+        $db = 'db'; //Nombre de la DB
         $port = 3306;
 
         //Usamos un metodo try y catch para controlar los errores
