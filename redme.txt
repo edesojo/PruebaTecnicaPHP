@@ -14,3 +14,11 @@ PASOS A SEGUIR:
 3. Ponga el código en la raíz www del LOCALHOST, y ejecútelo, después abra la ruta del archivo en su navegador.
 
 El programa debería imprimir si la conexión es exitosa, en caso contrario, devuelve el error.
+
+REQUISITOS PARA EJECUTAR EL EJERCICIO 2:
+----------------------------------------
+
+- LOCALHOST - Ej: Laragon https://laragon.org/ 
+- APLICACION PARA SEGUIR LAS SOLICITUDES DE LA API - Ej: POSTMAN
+
+PASOS A SEGUIR:
