@@ -7,5 +7,14 @@ use Illuminate\Database\Eloquent\Model;
 
 class Order extends Model
 {
+    //LOS CAMPOS QUE PERMITEN UNA INSERCION Y MODIFICACION MASIVA O EN LINEA
+    protected $fillable = [
+        'customer_name',
+        'customer_email',
+        'product',
+        'quantity',
+        'total_price',
+        'status'
+    ];
     use HasFactory;
 }
